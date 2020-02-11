@@ -30,10 +30,10 @@ The solution environment has two main components:
 
    1_step_aws_console
    2_aws_market_place
+   module*/module*
    3_run_the_script
-   ssh_into_ubuntu_server 
-   git clone repo
-   Run the Script : Step #2
+   4_ssh_into_ubuntu_server
+   5_lets_review_aws 
    Review Terrfaorm TF file
    Deploy Services
    Review Details on AWS Console
