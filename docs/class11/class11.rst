@@ -34,6 +34,7 @@ The solution environment has two main components:
    3_run_the_script
    4_ssh_into_ubuntu_server
    5_lets_review_aws 
+   6_install_terraform
    Review Terrfaorm TF file
    Deploy Services
    Review Details on AWS Console
