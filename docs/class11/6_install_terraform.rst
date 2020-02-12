@@ -38,4 +38,6 @@ Lets review the install script below
 
 .. image:: ./images/terraform.png 
 
-.. note:: Your Student#, you will see 4 instances, 1 BIG-IP, 2 nginx servers and 1 ubuntu jump box.
+Hit 'Y' when its installing the dependencies as shown below
+
+.. image:: ./images/y.png

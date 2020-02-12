@@ -35,7 +35,10 @@ The solution environment has two main components:
    4_ssh_into_ubuntu_server
    5_lets_review_aws 
    6_install_terraform
-   Review Terrfaorm TF file
+   7_review_tf
+   7.1_review_tf
+   7.2_review_tf
+   8_review_json 
    Deploy Services
    Review Details on AWS Console
    Test End to End Traffic
