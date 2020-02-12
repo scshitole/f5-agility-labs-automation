@@ -1,4 +1,4 @@
-Class 11: 101 of Terraform BIG-IP Provider 
+Class 11:Terraform BIG-IP Provider 
 ==========================================
 Introduction:
 ----------------------
@@ -39,9 +39,11 @@ The solution environment has two main components:
    7.1_review_tf
    7.2_review_tf
    8_review_json 
-   Deploy Services
-   Review Details on AWS Console
-   Test End to End Traffic
+   9_terraform_commands
+   10_terraform_commands
+   11_how_to_test
+   12_review_bigip
+   12.1_review_bigip
    
 Expected time to complete: **1 hour**
 

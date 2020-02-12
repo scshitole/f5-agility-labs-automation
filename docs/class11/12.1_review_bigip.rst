@@ -1,0 +1,9 @@
+Review BIG-IP Configuration #12.1
+=================================
+- Login to BIG-IP to check the configuration
+
+
+
+.. image:: ./images/f5sv.png
+
+
