@@ -1,6 +1,6 @@
 Review BIG-IP Configuration #12.1
 =================================
-- Login to BIG-IP to check the configuration
+- Login to BIG-IP to check the configuration using browser
 
 
 
