@@ -12,6 +12,7 @@ This Solution delivers a few common scenarios to help you learn more:
 
 Best of all, these scenarios are all powered with simple Terraform template files  that require zero knowledge of F5 configuration. 
 
+.. image:: ./images/fas.png 
 
 Solution Architecture:
 -------------------------
