@@ -7,8 +7,8 @@ The Terraform Lab provides a demo environment to get familiar with the solutions
 This Solution delivers a few common scenarios to help you learn more:
 
 * Virtual server deployment with redirection of HTTP to HTTPS traffic to enforce secured connections
-* Web server pool membership management as a server maintenance scenario
-* A Web Application Firewall policy management with URL and IP adress blocking scenario
+
+* Virtual service referencing an existing security policy. It creates an HTTP service, and attaches an existing Web Application Firewall (WAF) security policy created with the BIG-IP Application Security Manager (ASM) module.W
 
 Best of all, these scenarios are all powered with simple Terraform template files  that require zero knowledge of F5 configuration. 
 
