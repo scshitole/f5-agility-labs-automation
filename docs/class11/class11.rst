@@ -17,9 +17,9 @@ Solution Architecture:
 -------------------------
 The solution environment has two main components:
 
-1.	F5 Sandbox Provisioner – powered by Terraform, this sets up the architecture and environment. The architecture is fairly simple with some key components such as a F5 BIG IP Virtual Edition instance, an Jump box running Terraform, and a pair of web servers. You can learn more about the provisioned components in the next page.
+1.	F5 Sandbox Provisioner : powered by Terraform, this sets up the architecture and environment. The architecture is fairly simple with some key components such as a F5 BIG IP Virtual Edition instance, an Jump box running Terraform, and a pair of web servers. You can learn more about the provisioned components in the next page.
 
-2.	Solution use cases – overlaid onto the environment are the specific solution demos referenced above. Over time, we’ll add more solution demos to the architecture. More documentation for each use case is available `here <https://clouddocs.f5.com/training/fas-as3-usecases/>`_.
+2.	Solution use cases : overlaid onto the environment are the specific solution demos referenced above. Over time, we’ll add more solution demos to the architecture. More documentation for each use case is available `here <https://clouddocs.f5.com/training/fas-as3-usecases/>`_.
 
 
 .. toctree::
