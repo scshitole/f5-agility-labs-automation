@@ -9,6 +9,8 @@ On the ubuntu host run the following command.
 
 .. image:: ../images/clone.png
 
+Now lets download the terraform Provisioner frm GitHub. Use the below commands.
+
 .. code-block:: shell
    
   $ git clone https://github.com/f5devcentral/FAS-provisoner-terraform.git

@@ -1,4 +1,4 @@
-Run the Script Step #3
+Run Terraform Provisioner Step #3
 ==========================================
 .. toctree::
    :maxdepth: 1

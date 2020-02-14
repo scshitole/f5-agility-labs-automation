@@ -1,14 +1,14 @@
 Class 11:Terraform BIG-IP Provider 
 ==========================================
 Introduction:
-----------------------
-The Terraform Lab provides a demo environment to get familiar with the solutionsthat F5 provides in security, performance, and visibility. Users can use this environment to try automation solutions, builddemos and proof of concepts. Using the scenarios provided, users will be able to experience how F5 adds value and integrates into your build environment seamlessly.
+-------------
+The Terraform Lab provides a demo environment to get familiar with the solutions that F5 provides in security, performance, and visibility. Users can use this environment to try automation solutions, build demos and proof of concepts. Using the scenarios provided, users will be able to experience how F5 adds value and integrates into your build environment seamlessly.
 
 This Solution delivers a few common scenarios to help you learn more:
 
 * Virtual server deployment with redirection of HTTP to HTTPS traffic to enforce secured connections
 
-* Virtual service referencing an existing security policy. It creates an HTTP service, and attaches an existing Web Application Firewall (WAF) security policy created with the BIG-IP Application Security Manager (ASM) module.W
+* Virtual service referencing an existing security policy. It creates an HTTP service, and attaches an existing Web Application Firewall (WAF) security policy created with the BIG-IP Application Security Manager (ASM) module.
 
 Best of all, these scenarios are all powered with simple Terraform template files  that require zero knowledge of F5 configuration. 
 
