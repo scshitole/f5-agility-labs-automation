@@ -29,9 +29,9 @@ The solution environment has two main components:
    :caption: Contents:
    
 
-   1_step_aws_console
-   2_aws_market_place
-   module*/module*
+   1_step_aws_console                         
+   2_aws_market_place                         
+   module*/module*                            
    3_run_the_script
    4_ssh_into_ubuntu_server
    5_lets_review_aws 
@@ -45,6 +45,12 @@ The solution environment has two main components:
    11_how_to_test
    12_review_bigip
    12.1_review_bigip
+   12.2_review_bigip
+   13_secure_your_app
+   14_modify_main_tf
+   15*
+   16*
+   17*
    
 Expected time to complete: **1 hour**
 
