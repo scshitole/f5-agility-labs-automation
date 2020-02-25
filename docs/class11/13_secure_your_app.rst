@@ -1,5 +1,9 @@
 Secure Your App #13  
-=================================
+=====================
+
+#### Before working on this section please make sure you have completed Step 12.2 ####
+---------------------------------------------------------------------------------------
+
 - This section contains declarations that aim to secure your Application using ASM WAF
 To secure the application ASM module or BIG-IP Application Security Manager is used. If you need to read more aboput ASM module please refer to https://techdocs.f5.com/kb/en-us/products/big-ip_asm/manuals/product/asm-implementations-13-1-0.html
 

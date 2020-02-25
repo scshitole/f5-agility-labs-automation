@@ -45,12 +45,14 @@ The solution environment has two main components:
    11_how_to_test
    12_review_bigip
    12.1_review_bigip
-   12.2_review_bigip
+   12.2_destroy
    13_secure_your_app
    14_modify_main_tf
    15*
    16*
    17*
+   18*
+   19*
    
-Expected time to complete: **1 hour**
+Expected time to complete: **1.5 hour**
 
