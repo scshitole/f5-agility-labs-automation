@@ -11,7 +11,7 @@ Open the browser and issue the following command on the browser
 
 here the BIG-IP-Virtual_IP is the Management IP of BIG-IP, notice the port we are using now to connect to the back end application is "8080"
 
-You shoud get a response as shown below from the Gruyere  server. This is an open source server with existing vulnerabilities. This is a cheesy web application that allows its users to publish snippets of text and store assorted files. "Unfortunately," Gruyere has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution. The goal of this lab is to guide you through discovering some of these bugs and learning how we can fix this using F5 Advanced Web Application Firewall and protect theapplication from Cross Site Scripting. 
+You shoud get a response as shown below from the Gruyere  server. This is an open source server with existing vulnerabilities. This is a cheesy web application that allows its users to publish snippets of text and store assorted files. "Unfortunately," Gruyere has multiple security bugs ranging from cross-site scripting and cross-site request forgery, to information disclosure, denial of service, and remote code execution. The goal of this lab is to guide you through discovering some of these bugs and learning how we can fix this using F5 Advanced Web Application Firewall and protect theapplication from Cross Site Scripting. More information on the App is at https://google-gruyere.appspot.com/
 
 .. image:: ./images/gruy1.png
 
