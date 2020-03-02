@@ -2,26 +2,20 @@ Class 11:Terraform BIG-IP Provider
 ==========================================
 Introduction:
 -------------
-The Terraform Lab provides a demo environment to get familiar with the solutions that F5 provides in security, performance, and visibility. Users can use this environment to try automation solutions, build demos and proof of concepts. Using the scenarios provided, users will be able to experience how F5 adds value and integrates into your build environment seamlessly.
+1. Use FAS-terraform-provisioner to build Application infrastructure environment in AWS.
+This section teach how to modify this provisioner variables to provision different kinds of env. Like a different model BIG-IP etc.
 
-This Solution delivers a few common scenarios to help you learn more:
+2. Configure load balancing for your application using Terraform and AS3.
+What is AS3? 
+The Application Services 3 Extension uses a declarative model, meaning you send a declaration file using a single Rest API call.
+For more details please refer to https://clouddocs.f5.com/products/extensions/f5-appsvcs-extension/latest/userguide/about-as3.html
 
-* Virtual server deployment with redirection of HTTP to HTTPS traffic to enforce secured connections
-
-* Virtual service referencing an existing security policy. It creates an HTTP service, and attaches an existing Web Application Firewall (WAF) security policy created with the BIG-IP Application Security Manager (ASM) module.
+3. Configure security  for the deployed application.
+Virtual service referencing an existing security policy. It creates an HTTP service, and attaches an existing Web Application Firewall (WAF) security policy created with the BIG-IP Application Security Manager (ASM) module.
 
 Best of all, these scenarios are all powered with simple Terraform template files  that require zero knowledge of F5 configuration. 
 
 .. image:: ./images/fas.png 
-
-Solution Architecture:
--------------------------
-The solution environment has two main components:
-
-1.	F5 Sandbox Provisioner : powered by Terraform, this sets up the architecture and environment. The architecture is fairly simple with some key components such as a F5 BIG IP Virtual Edition instance, an Jump box running Terraform, and a pair of web servers. You can learn more about the provisioned components in the next page.
-
-2.	Solution use cases : overlaid onto the environment are the specific solution demos referenced above. Over time, we will add more solution demos to the architecture. More documentation for each use case is available `here <https://clouddocs.f5.com/training/fas-as3-usecases/>`_.
-
 
 .. toctree::
    :maxdepth: 1
