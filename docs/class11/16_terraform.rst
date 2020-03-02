@@ -1,5 +1,5 @@
 Execute terraform apply  #16  
-==========================
+=============================
 - Go to the ubuntu jump box and execute terraform plan
 
 .. code-block:: shell

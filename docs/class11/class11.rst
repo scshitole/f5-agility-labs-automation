@@ -26,7 +26,6 @@ Best of all, these scenarios are all powered with simple Terraform template file
    1_step_aws_console                         
    2_aws_market_place                         
    module*/module*                            
-   3_run_the_script
    4_ssh_into_ubuntu_server
    5_lets_review_aws 
    6_install_terraform
