@@ -5,8 +5,8 @@ Run Terraform Provisioner Step #3
    :glob:
    :caption: Contents:
    
-   3_2*
    3_1*
+   3_2*
    3_3*
    3_4*
    
