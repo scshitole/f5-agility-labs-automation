@@ -3,17 +3,15 @@ Class 11:Terraform BIG-IP Provider
 Introduction:
 -------------
 1. Use FAS-terraform-provisioner to build Application infrastructure environment in AWS.
-This section teach how to modify this provisioner variables to provision different kinds of env. Like a different model BIG-IP etc.
+This section will deploy F5 BIG-IP and application servers in a VPC using terraform tool.
 
 2. Configure load balancing for your application using Terraform and AS3.
-What is AS3? 
-The Application Services 3 Extension uses a declarative model, meaning you send a declaration file using a single Rest API call.
+Application Services 3 Extension uses a declarative model, meaning you send a declaration file using a single Rest API call.
 For more details please refer to https://clouddocs.f5.com/products/extensions/f5-appsvcs-extension/latest/userguide/about-as3.html
 
-3. Configure security  for the deployed application.
-Virtual service referencing an existing security policy. It creates an HTTP service, and attaches an existing Web Application Firewall (WAF) security policy created with the BIG-IP Application Security Manager (ASM) module.
-
-Best of all, these scenarios are all powered with simple Terraform template files  that require zero knowledge of F5 configuration. 
+3. Configure Web Application Firewall and protect the Application.
+This section goes through how you can configure BIG-IP ASM WAF and attach to the Virtual Server using AS3 and terraform.
+ 
 
 .. image:: ./images/fas.png 
 
