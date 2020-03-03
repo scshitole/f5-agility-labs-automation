@@ -1,5 +1,12 @@
 Script Execution
 ================
+Go into the FAS-provisoner-terraform directory if you are not and do the following
+Execute the shell script 
+
+.. code-block:: shell
+
+  cd FAS-provisoner-terraform
+   $ ./fas-provisoner.sh
 
 You can specifiy install directory for terraform hitting 'a' on keyboard please
 see below
