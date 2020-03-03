@@ -17,6 +17,13 @@ Now lets download the terraform Provisioner frm GitHub. Use the below commands.
   $ cd FAS-provisoner-terraform
   $ ./fas-provisoner.sh
 
+.. code-block:: shell
+
+  Specify install directory (a,b or c):
+        (a) '~/bin'    (b) '/usr/local/bin' as root    (c) abort :
+
+If you see the above please enter 'a' and proceed
+
 .. warning:: If you see an error "OptInRequired" you will need to go to the
    step 2 again to resolve this error.
 
