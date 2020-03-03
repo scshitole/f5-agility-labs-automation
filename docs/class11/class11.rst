@@ -3,7 +3,7 @@ Class 11:Terraform BIG-IP Provider
 Introduction:
 -------------
 1. Use FAS-terraform-provisioner to build Application infrastructure environment in AWS.
-This section will deploy F5 BIG-IP and application servers in a VPC using terraform tool.
+This section will deploy F5 BIG-IP, a Ubuntu Jump Box with Terraform  and Application servers in a VPC using terraform tool.
 
 2. Configure load balancing for your application using Terraform and AS3.
 Application Services 3 Extension uses a declarative model, meaning you send a declaration file using a single Rest API call.
